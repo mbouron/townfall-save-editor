@@ -1,0 +1,222 @@
+{
+ "1": {
+  "name": "Cold Open",
+  "description": "Searching for help",
+  "type": "Main",
+  "order": 1,
+  "file": "C0_M1",
+  "objectives": {}
+ },
+ "3": {
+  "name": "Escape",
+  "description": "Escape The Otherworld",
+  "type": "Main",
+  "order": 2,
+  "file": "C0_M3",
+  "objectives": {}
+ },
+ "5": {
+  "name": "A Connection",
+  "description": "Searching for a voice.",
+  "type": "Main",
+  "order": 3,
+  "file": "C1_M1",
+  "objectives": {
+   "10b": "Find the house in the signal",
+   "198": "Explore the house",
+   "32": "Open the Organ Transplant Box"
+  }
+ },
+ "6": {
+  "name": "Searching For Zoe",
+  "description": "From Zoe's house to clinic puzzle complete",
+  "type": "Main",
+  "order": 4,
+  "file": "C1_M2",
+  "objectives": {
+   "36": "Investigate Shorefront Family Clinic",
+   "37": "Place Items on the Sclaes"
+  }
+ },
+ "7": {
+  "name": "Zoe: Rounds",
+  "description": "A day in the life.",
+  "type": "Main",
+  "order": 5,
+  "file": "C2_M2",
+  "objectives": {
+   "24": "Visit Mr Stewart at his home",
+   "25": "Report to the medical center"
+  }
+ },
+ "8": {
+  "name": "Richard: Getting Inside",
+  "description": "Richards 1st mission to get into the tower",
+  "type": "Main",
+  "order": 12,
+  "file": "C2_M4",
+  "objectives": {
+   "17": "Enter CEG tower"
+  }
+ },
+ "21": {
+  "name": "Trying Again",
+  "description": "",
+  "type": "Main",
+  "order": 15,
+  "file": "Clara_Woods_Part_2",
+  "objectives": {
+   "8d": "Escape",
+   "2d6": "Get into the control room",
+   "2d7": "Relive the events on CCTV",
+   "2d8": "Release the clamps from the control room",
+   "34e": "Use the manual override",
+   "2d9": "Escape"
+  }
+ },
+ "23": {
+  "name": "Eraser",
+  "description": "",
+  "type": "Main",
+  "order": 16,
+  "file": "Clara_Woods_Part_4",
+  "objectives": {}
+ },
+ "35": {
+  "name": "End Credits",
+  "description": "End CreditS Logic",
+  "type": "Main",
+  "order": 19,
+  "file": "End_Credits",
+  "objectives": {}
+ },
+ "34": {
+  "name": "Ending",
+  "description": "End Game Logic",
+  "type": "Main",
+  "order": 18,
+  "file": "Ending",
+  "objectives": {}
+ },
+ "12": {
+  "name": "Begin Again",
+  "description": "Back to the start.",
+  "type": "Main",
+  "order": 9,
+  "file": "Journey_To_Clara_Woods",
+  "objectives": {}
+ },
+ "14": {
+  "name": "Inside CEG HQ",
+  "description": "",
+  "type": "Main",
+  "order": 11,
+  "file": "Journey_To_Employee_Housing",
+  "objectives": {
+   "43": "Get to the 10th floor"
+  }
+ },
+ "11": {
+  "name": "Many Into One",
+  "description": "Collecting the lives of others",
+  "type": "Main",
+  "order": 8,
+  "file": "Loch_House_After_Medical",
+  "objectives": {
+   "1ec": "Find the patient blood bags",
+   "11a": "Open the Transfusion Door"
+  }
+ },
+ "998": {
+  "name": "Persist_Test",
+  "description": "Used in the Level_Persist testbed to test the persist nodes",
+  "type": "Main",
+  "order": -1,
+  "file": "Mission998",
+  "objectives": {}
+ },
+ "18": {
+  "name": "Fix This",
+  "description": "",
+  "type": "Main",
+  "order": 14,
+  "file": "Otherworld_Complex_Escape",
+  "objectives": {
+   "84": "FIX THIS"
+  }
+ },
+ "40": {
+  "name": "Zoe: The Patient",
+  "description": "",
+  "type": "Main",
+  "order": 7,
+  "file": "Patient_V2",
+  "objectives": {
+   "49": "Report the patients' Blood Pressure",
+   "88": "Report the patients' Pulse",
+   "89": "Report the patients' Blood Oxygen",
+   "4b": "X-Ray the patient",
+   "1ad": "Provide the X-ray information to Dr Glenn",
+   "1ae": "Find the required treatment drugs",
+   "4a": "Administer a treatment to the patient",
+   "1af": "Find the Intubation Kit",
+   "4d": "Intubate the patient"
+  }
+ },
+ "13": {
+  "name": "Missing Parts",
+  "description": "",
+  "type": "Main",
+  "order": 10,
+  "file": "Richard_and_Clara_Woods",
+  "objectives": {
+   "f": "Meet Richard at C.E.G Tower",
+   "2d3": "Open the Gate on Atlas Way",
+   "2d4": "Open the CEG Lockers",
+   "2d5": "Open the Gate on Atlas Way"
+  }
+ },
+ "17": {
+  "name": "Richard: Another Attempt",
+  "description": "Richard Tower to 10th Floor",
+  "type": "Main",
+  "order": 13,
+  "file": "Saving_Alex",
+  "objectives": {
+   "56": "Enter CEG tower",
+   "6a": "Reach Managment - Level 10",
+   "4d3": "Locate the projector bulb and lens",
+   "3cf": "Repair the Projector",
+   "4d4": "Locate the Projector Slides",
+   "3d0": "Present the Projector Slides",
+   "3d2": "Reach Management on Level 10"
+  }
+ },
+ "29": {
+  "name": "Returning",
+  "description": "",
+  "type": "Main",
+  "order": 17,
+  "file": "Seabed",
+  "objectives": {}
+ },
+ "10": {
+  "name": "Journey to Medical",
+  "description": "Reaching Zoe through a different town.",
+  "type": "Main",
+  "order": 6,
+  "file": "Simons_Journey_To_Medical",
+  "objectives": {
+   "e8": "Accept Richards Gift",
+   "1b": "Reach Zoe at the medical center (after pistol)"
+  }
+ },
+ "889": {
+  "name": "Test Cinematic",
+  "description": "",
+  "type": "Main",
+  "order": -1,
+  "file": "TestCinematic",
+  "objectives": {}
+ }
+}

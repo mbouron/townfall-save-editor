@@ -1,0 +1,2012 @@
+{
+ "0": {
+  "name": "Flashlight",
+  "type": "Tool",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0028_Flashlight"
+ },
+ "1": {
+  "name": "Radio",
+  "type": "Tool",
+  "equippable": true,
+  "icon": "T_UI_Inventory__0034_CRTV"
+ },
+ "224": {
+  "name": "Pager",
+  "type": "Tool",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0021_Pager"
+ },
+ "302": {
+  "name": "Medical_Wristband",
+  "type": "Tool",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0000_MedicalWristband"
+ },
+ "45b": {
+  "name": "Medical_Wristband_Clue",
+  "type": "Tool",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0000_MedicalWristband"
+ },
+ "3": {
+  "name": "Pipe",
+  "type": "Weapon",
+  "equippable": true,
+  "icon": "T_UI_Inventory__0020_Pipe"
+ },
+ "4": {
+  "name": "Pistol",
+  "type": "Weapon",
+  "equippable": true,
+  "icon": "T_UI_Inventory__0019_Pistol"
+ },
+ "38": {
+  "name": "FlareGun",
+  "type": "Weapon",
+  "equippable": true,
+  "icon": "T_UI_Inventory__0027_FlareGun"
+ },
+ "42": {
+  "name": "Plank",
+  "type": "Weapon",
+  "equippable": true,
+  "icon": "T_UI_Inventory__0015_Plank"
+ },
+ "54": {
+  "name": "Shotgun",
+  "type": "Weapon",
+  "equippable": true,
+  "icon": "T_UI_Inventory__0016_Shotgun"
+ },
+ "418": {
+  "name": "LaserPistol",
+  "type": "Weapon",
+  "equippable": true,
+  "icon": "T_UI_Inventory__0026_Pistol3000"
+ },
+ "419": {
+  "name": "Axe",
+  "type": "Weapon",
+  "equippable": true,
+  "icon": "T_UI_Inventory__0046_Axe"
+ },
+ "5": {
+  "name": "PistolAmmo",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0018_PistolAmmo"
+ },
+ "3b": {
+  "name": "FlareAmmo",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0029_FlareCartridge"
+ },
+ "55": {
+  "name": "ShotgunAmmo",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0011_ShotgunShell"
+ },
+ "bf": {
+  "name": "Gauze",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0025_Gauze"
+ },
+ "27": {
+  "name": "IV_Fluid",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0023_IVFluid"
+ },
+ "bc": {
+  "name": "SterilizedGauze",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0005_SterilizedGauze"
+ },
+ "c3": {
+  "name": "FirstAidKit",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0030_FirstAid"
+ },
+ "bd": {
+  "name": "Alcohol",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0052_Alochol"
+ },
+ "2e7": {
+  "name": "Empty_IV_Bag",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0035_EmptyIVBag"
+ },
+ "2e8": {
+  "name": "Filled_IV_Bag",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0032_FilledIVBag"
+ },
+ "2e9": {
+  "name": "Antibiotics",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0053_Antibiotics"
+ },
+ "2ea": {
+  "name": "Enhanced_IV_Bag",
+  "type": "Consumable",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0033_EnhancedIVBag"
+ },
+ "5e": {
+  "name": "Brick",
+  "type": "QuickItem",
+  "equippable": true,
+  "icon": "T_UI_Inventory__0043_Brick"
+ },
+ "e8": {
+  "name": "EmptyBottle",
+  "type": "QuickItem",
+  "equippable": true,
+  "icon": "T_UI_Inventory__0042_Bottle"
+ },
+ "4c": {
+  "name": "Jess_House_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_JessKey"
+ },
+ "50": {
+  "name": "CommunityGarden_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0036_CommunityGardenKey"
+ },
+ "c8": {
+  "name": "GeneratorKey",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_GeneratorKey"
+ },
+ "135": {
+  "name": "Printed_Access_Card",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Card_Printed"
+ },
+ "305": {
+  "name": "CEGTower_4thFloor_Storeroom_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_CEGStorageKey"
+ },
+ "340": {
+  "name": "JOE_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_JoeKey"
+ },
+ "351": {
+  "name": "CEGTower_CEOAccessCard",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Card_CEO"
+ },
+ "354": {
+  "name": "South_Brae_House_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_SouthBraeKey"
+ },
+ "380": {
+  "name": "Ward_W_MasterKey",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_WardWMasterKey"
+ },
+ "3a1": {
+  "name": "Hotel_Room_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0024_Room204Key"
+ },
+ "3a7": {
+  "name": "Control_Room_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_ControlRoomKey"
+ },
+ "3c3": {
+  "name": "AUX_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_AUXKey"
+ },
+ "3c6": {
+  "name": "Building_2_Access_Card",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0040_B2AccessCard"
+ },
+ "3c9": {
+  "name": "Mr_Stewarts_Patio_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_MrSPatioKey"
+ },
+ "3cb": {
+  "name": "Floppy_Disk_Case_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_FloppyDiskCaseKey"
+ },
+ "3d2": {
+  "name": "CEGTower_EmployeeAccessCard",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Card_34"
+ },
+ "3d3": {
+  "name": "CEG_Tower_Maintenance_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_CEGMaintenanceKey"
+ },
+ "3df": {
+  "name": "Ward_P_MasterKey",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_WardPMasterKey"
+ },
+ "3f8": {
+  "name": "Upper_Braes_Key",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_UpperBraeKey"
+ },
+ "438": {
+  "name": "StrangeAccessCard",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_CardStrange"
+ },
+ "45a": {
+  "name": "DisabledAccessCard",
+  "type": "Key",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Card_Disabled"
+ },
+ "148": {
+  "name": "Disk_FixADisk",
+  "type": "Disk",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0031_FixADisk"
+ },
+ "149": {
+  "name": "Disk_ZipDisk1",
+  "type": "Disk",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0003_ZippedDisk1"
+ },
+ "14a": {
+  "name": "Disk_ZipDisk2",
+  "type": "Disk",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0002_ZippedDisk2"
+ },
+ "14b": {
+  "name": "Disk_ZipDisk3",
+  "type": "Disk",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0001_ZippedDisk3"
+ },
+ "16c": {
+  "name": "Disk_ZipDisk2_Corrupted",
+  "type": "Disk",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0002_ZippedDisk2"
+ },
+ "172": {
+  "name": "Grouped_Disks",
+  "type": "Disk",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Disk_Apartment"
+ },
+ "316": {
+  "name": "Disk_ClaraWoodsMailbox",
+  "type": "Disk",
+  "equippable": false,
+  "icon": ""
+ },
+ "3a0": {
+  "name": "Disk_ZoeNightmarePC",
+  "type": "Disk",
+  "equippable": false,
+  "icon": ""
+ },
+ "3fc": {
+  "name": "Disk_Clara_Woods_House_3",
+  "type": "Disk",
+  "equippable": false,
+  "icon": "T_UI_Inventory_DiskAmmonite"
+ },
+ "451": {
+  "name": "Disk_Aux",
+  "type": "Disk",
+  "equippable": false,
+  "icon": "T_UI_Inventory_AuxDisk"
+ },
+ "b": {
+  "name": "Store_Staff_Notice",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "6f": {
+  "name": "ProtestFlyer",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "71": {
+  "name": "Note_On_Clinic_Door",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "88": {
+  "name": "Patient_List",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "d1": {
+  "name": "Tenement_Handwritten_Note",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "d5": {
+  "name": "Equipment_Cleanup_Notice",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "e1": {
+  "name": "Tenement_PC_File_2",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "115": {
+  "name": "Construction_Halted_Notice",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "152": {
+  "name": "GardenersObituary",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "181": {
+  "name": "Newspaper_ServiceShutDown",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "186": {
+  "name": "Hand_Delivered_Letter",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "18c": {
+  "name": "JessLegalAdvice",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "190": {
+  "name": "Medical_Security_Note",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "1f6": {
+  "name": "Tenement_PC_File_3",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "226": {
+  "name": "EML_ZoePC_1",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "228": {
+  "name": "EML_ZoePC_2",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "27b": {
+  "name": "EML_ZoePC_3",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "234": {
+  "name": "EML_DontRead",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "23c": {
+  "name": "EML_Tenement_Press_Photos",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "26c": {
+  "name": "Haldane_Hotel",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "279": {
+  "name": "Organ_Transplant_Card",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "27d": {
+  "name": "Zoes_Resignation_Letter",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "281": {
+  "name": "Restock_Issues",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "292": {
+  "name": "Task_Assignment",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "299": {
+  "name": "EML_Zoe_Coming_Back",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "2c0": {
+  "name": "Richard_Cover_Letter",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "2ca": {
+  "name": "Grid_of_Codes_Complete",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "2cd": {
+  "name": "Inquiry_Preparation_Notice",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "2df": {
+  "name": "Boil_Water_Notice",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "2ed": {
+  "name": "EML_Facilities_1",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "2f3": {
+  "name": "Box_IDs_and_Names",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "2fd": {
+  "name": "EML_CEG_Security_1",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "2fe": {
+  "name": "EML_CEG_Security_2",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "308": {
+  "name": "EML_Clinic1",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "317": {
+  "name": "EML_Locker_LostandFound",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "31e": {
+  "name": "Boat_Tour_Cancelled_Notice",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "31f": {
+  "name": "Harbour_Notice",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "335": {
+  "name": "Note_On_Patient_Records",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "348": {
+  "name": "NoteFromDeadRichard",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "353": {
+  "name": "Hotel_Room_Note",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "367": {
+  "name": "EML_Locker_Barcodes",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "36c": {
+  "name": "CEG_Meeting_Minutes",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "36d": {
+  "name": "PR_Meeting_Note",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "375": {
+  "name": "Feeling_Sick_Note",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "376": {
+  "name": "CEG_Kiosk_Note",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "377": {
+  "name": "CEG_Memo",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "379": {
+  "name": "Atlas_Square_Apartment_Note",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "37a": {
+  "name": "Locker_Management_Note",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "2c8": {
+  "name": "Grid_of_Codes_Small",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "2c9": {
+  "name": "Grid_of_Codes_Large",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "37c": {
+  "name": "Newsagents_Powercard_Note",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "395": {
+  "name": "ScaffoldNotice",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "396": {
+  "name": "EML_CEG_PRDirector_1",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "397": {
+  "name": "EML_CEG_PRDirector_2",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "3c7": {
+  "name": "Building1_Ignition_Instructions",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "3cc": {
+  "name": "Gaming_Magazine",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "3cd": {
+  "name": "Reciprocating_Compressor",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "3d5": {
+  "name": "CEG_Checkout_Sheet",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "3dd": {
+  "name": "PowerCard_CreditGuide",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "3de": {
+  "name": "Otherworld_Patient_List",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "3f6": {
+  "name": "Clara_Woods_House_3_Yesterday",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "3f7": {
+  "name": "Clara_Woods_House_3_Tomorrow",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "3f9": {
+  "name": "Room_Service_Card",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "3fd": {
+  "name": "EML_Current_Count",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "400": {
+  "name": "Clara_Woods_House_3_Today",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "407": {
+  "name": "TriageSite_Community",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "408": {
+  "name": "TriageSite_Exhausted",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "409": {
+  "name": "EML_Hospital_RoomB_File1",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "40a": {
+  "name": "EML_Hospital_RoomB_File2",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "40b": {
+  "name": "EML_Hospital_Upstairs_File1",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "40c": {
+  "name": "EML_Hospital_Upstairs_File2",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "40f": {
+  "name": "Medical_Center_Keypad_Code",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "41a": {
+  "name": "Note_On_Jess_Door",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "41b": {
+  "name": "EML_Clinic2",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "41c": {
+  "name": "Lamenting_Poem",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "434": {
+  "name": "JoePhoto",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "436": {
+  "name": "RCU_Refit_Note",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "439": {
+  "name": "Remote_Systems_Control",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "1ec": {
+  "name": "Patch_1",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_CrewPatch_TEMP_On"
+ },
+ "452": {
+  "name": "EML_AUX",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "38a": {
+  "name": "Clamp_Procedure",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "459": {
+  "name": "Ordell_File",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "45e": {
+  "name": "EML_CEG_10thFloor_Richard",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "45f": {
+  "name": "EML_CEG_10thFloor_Simon",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "460": {
+  "name": "EML_OWBuilding2",
+  "type": "Discovery",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Email"
+ },
+ "12": {
+  "name": "Map_Local_SeaFront_Harbour",
+  "type": "Document",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_ShoreFrontSouth_Map"
+ },
+ "119": {
+  "name": "Document_Clara_Woods_Estate_Map",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "35e": {
+  "name": "Map_CEG_HQ_G",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "362": {
+  "name": "Map_CEG_HQ_M",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "35f": {
+  "name": "Map_CEG_HQ_1",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "363": {
+  "name": "Map_CEG_HQ_2",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "360": {
+  "name": "Map_CEG_HQ_3",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "364": {
+  "name": "Map_CEG_HQ_4",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "361": {
+  "name": "Map_CEG_HQ_5",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "341": {
+  "name": "Map_Medical_Center_Map_Ground",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "37d": {
+  "name": "Map_Zoe_Shorefront_Map",
+  "type": "Document",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_ShoreFrontSouth_Map"
+ },
+ "394": {
+  "name": "Map_ZoeNightmare",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "3dc": {
+  "name": "Map_OCW_Area_2",
+  "type": "Document",
+  "equippable": false,
+  "icon": ""
+ },
+ "6b": {
+  "name": "PowerCard",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0014_Electricard"
+ },
+ "99": {
+  "name": "Zoes_Lanyard",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0000_ZoesLanyard"
+ },
+ "27f": {
+  "name": "Broken_Stethoscope",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0041_Stehtoscope"
+ },
+ "283": {
+  "name": "Prescription_Dosage_Error_Note",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0013_Prescription"
+ },
+ "28e": {
+  "name": "Empty_Flashlight",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0028_Flashlight"
+ },
+ "290": {
+  "name": "AA_Batteries",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0045_Batteries"
+ },
+ "370": {
+  "name": "Atlas_Way_Gate_Key_Part1",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0051_AtlasGate1"
+ },
+ "371": {
+  "name": "Atlas_Way_Gate_Key_Part2",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0050_AtlasGate2"
+ },
+ "372": {
+  "name": "Atlas_Way_Gate_Key_Part3",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0049_AtlasGate3"
+ },
+ "373": {
+  "name": "Atlas_Way_Gate_Key_Completed",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0048_AtlasGateCompelte"
+ },
+ "374": {
+  "name": "Atlas_Way_Gate_Key_Partial",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0047_AtlasGatePartial"
+ },
+ "17c": {
+  "name": "Intubation_Kit",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory_IntubationKit"
+ },
+ "384": {
+  "name": "BloodBag_SarahWatson",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory_BloodBagSW"
+ },
+ "385": {
+  "name": "BloodBag_MatthewClark",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory_BloodBagMC"
+ },
+ "386": {
+  "name": "BloodBag_GeorgeMcEwan",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory_BloodBagGM"
+ },
+ "387": {
+  "name": "BloodBag_LesleyGreer",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory_BloodBagLG"
+ },
+ "388": {
+  "name": "BloodBag_AlanDuncan",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory_BloodBagAD"
+ },
+ "3cf": {
+  "name": "Projector_Lens",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory_ProjectorLens"
+ },
+ "3d0": {
+  "name": "Projector_Bulb",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": "T_UI_Inventory_ProjectorBulb"
+ },
+ "41f": {
+  "name": "Zoe_Clinic_Puzzle_Organisation",
+  "type": "MissionItem",
+  "equippable": false,
+  "icon": ""
+ },
+ "4a": {
+  "name": "Boltcutters",
+  "type": "GatingTool",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0044_Boltcutters"
+ },
+ "7f": {
+  "name": "Scalpel",
+  "type": "GatingTool",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0017_Scalpel"
+ },
+ "417": {
+  "name": "Lock_Box_Key",
+  "type": "GatingTool",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0022_LockboxKey"
+ },
+ "29e": {
+  "name": "CloseUp_GardenPlaque1",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "29d": {
+  "name": "CloseUp_GardenPlaque2",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "29c": {
+  "name": "CloseUp_GardenPlaque3",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "29b": {
+  "name": "CloseUp_GardenPlaque4",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "29a": {
+  "name": "CloseUp_GardenPlaque5",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "69": {
+  "name": "ZoeUnopenedMail",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "93": {
+  "name": "Photo_of_Simon",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "262": {
+  "name": "MrStewartPhoto",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "155": {
+  "name": "Clara_Woods_Interpretation_Panel",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "269": {
+  "name": "Promenade_Interpretation_Panel",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2a0": {
+  "name": "Community_Shed_Notice",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2a7": {
+  "name": "Memorial_Photo_Joe_McKenzie",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2a8": {
+  "name": "MrStewarts_Pills",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2a9": {
+  "name": "Oil_Painting",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2aa": {
+  "name": "Police_Station_Notice",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2b0": {
+  "name": "Road_Closure_Sign",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2b1": {
+  "name": "Road_Closure_Sign_2",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2b3": {
+  "name": "Protest_Placard_Son",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2b5": {
+  "name": "Memorial_Victim_Photo",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2bd": {
+  "name": "Clara_Woods_Statue",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2ce": {
+  "name": "CondolenceCard",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2d2": {
+  "name": "ClaraBoat",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2de": {
+  "name": "Park_Interpretation_Panel",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2e0": {
+  "name": "Holiday_Photo",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2e6": {
+  "name": "Pile_of_Protest_Flyers",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2f0": {
+  "name": "Trapped_Body",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "2fc": {
+  "name": "ClaraTower_Floor_Directory",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "304": {
+  "name": "Washed_Up_Overalls",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "334": {
+  "name": "Mr_Stewarts_Index",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "c5": {
+  "name": "Phone_Box_Information_Poster",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "36b": {
+  "name": "PR_Press_Notice",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "36e": {
+  "name": "Board_of_Directors_Photo",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "38d": {
+  "name": "Patient_Drug_1",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "38e": {
+  "name": "Patient_Drug_3",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "38f": {
+  "name": "Patient_Drug_4",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "390": {
+  "name": "Patient_Drug_5",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "391": {
+  "name": "Patient_Drug_7",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "392": {
+  "name": "Patient_Drug_8",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "393": {
+  "name": "Patient_Drug_10",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "39b": {
+  "name": "Zoe_Patient_Chart_AD",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "39c": {
+  "name": "Zoe_Patient_Chart_GM",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "39d": {
+  "name": "Zoe_Patient_Chart_SW",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "39e": {
+  "name": "Zoe_Patient_Chart_MC",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "39f": {
+  "name": "Zoe_Patient_Chart_LG",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3a6": {
+  "name": "Clinic_Code_PostIt",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3d7": {
+  "name": "Projector_Label",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3d8": {
+  "name": "Broken_Projector_Part",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3e1": {
+  "name": "BloodBag_AD",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3e2": {
+  "name": "BloodBag_GM",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3e3": {
+  "name": "BloodBag_HM",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3e4": {
+  "name": "BloodBag_SW",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3e5": {
+  "name": "BloodBag_LG",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3e6": {
+  "name": "BloodBag_MC",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3e7": {
+  "name": "BloodBag_RD",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3e8": {
+  "name": "BloodBag_SH",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3e9": {
+  "name": "BloodPlaque_ABPlus",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3ea": {
+  "name": "BloodPlaque_ABMinus",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3eb": {
+  "name": "BloodPlaque_APlus",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3ec": {
+  "name": "BloodPlaque_AMinus",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3ed": {
+  "name": "BloodPlaque_BPlus",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3ee": {
+  "name": "BloodPlaque_BMinus",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3ef": {
+  "name": "BloodPlaque_OPlus",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3f0": {
+  "name": "BloodPlaque_OMinus",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "3fa": {
+  "name": "Simon_Gilet",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "403": {
+  "name": "CEG_Panel_1",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "404": {
+  "name": "CEG_Panel_2",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "405": {
+  "name": "CEG_Panel_3",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "406": {
+  "name": "CEG_Panel_4",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "410": {
+  "name": "BloodBag_TF",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "411": {
+  "name": "BloodBag_DH",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "412": {
+  "name": "Whiteboard_Surgery",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "413": {
+  "name": "MC_StaffNotice",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "415": {
+  "name": "Clinic_Triage_Board",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "431": {
+  "name": "Book_1",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "432": {
+  "name": "Book_2",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "433": {
+  "name": "Book_3",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "448": {
+  "name": "Hospital_Directions_1",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "449": {
+  "name": "Hospital_Directions_2",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "44a": {
+  "name": "Hospital_Directions_3",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "44b": {
+  "name": "Locker_Instructions",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "44c": {
+  "name": "CEGTower_Information_Notice",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "44d": {
+  "name": "CEGTower_ElevatorMaintenance",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "454": {
+  "name": "Projector_Agenda",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "458": {
+  "name": "WHO_Poster",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "45c": {
+  "name": "Newsagent_Delivery_Notice",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "45d": {
+  "name": "CEGSecurityPin",
+  "type": "CloseUpViewer",
+  "equippable": false,
+  "icon": ""
+ },
+ "287": {
+  "name": "CRTVSignal_Zoe_Calls_To_Simon_1",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "288": {
+  "name": "CRTVSignal_Zoe_Calls_To_Simon_2",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "284": {
+  "name": "CRTVSignal_Clinic",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "28b": {
+  "name": "CRTVSignal_Simons_Journey_To_Medical_1",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "25c": {
+  "name": "VHFSignal_Tenement",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "296": {
+  "name": "VHFSignal_Pharmacy",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "2d1": {
+  "name": "VHFSignal_SouthBrae",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "378": {
+  "name": "VHFSignal_FlareStack",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "3e0": {
+  "name": "VHFSignal_Vents",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "3f1": {
+  "name": "VHFSignal_CEGTower",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "3fb": {
+  "name": "CRTVSignal_Hotel_Room",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "435": {
+  "name": "VHFSignal_JOERoom",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": ""
+ },
+ "437": {
+  "name": "VHFSignal_Supermarket",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": ""
+ },
+ "44e": {
+  "name": "CRTVSignal_MissingParts_Lockers",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "44f": {
+  "name": "CRTVSignal_MissingParts_Help",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "450": {
+  "name": "CRTVSignal_MissingParts_10thFloor",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "455": {
+  "name": "VHFSignal_ManyIntoOne",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "456": {
+  "name": "CRTVSignal_MissingParts_Together",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "457": {
+  "name": "CRTVSignal_MissingParts_Where",
+  "type": "CRTVSignal",
+  "equippable": false,
+  "icon": "UI_Save_Icon_Otherworld1"
+ },
+ "315": {
+  "name": "Barcode_1",
+  "type": "Barcode",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Locker_1"
+ },
+ "318": {
+  "name": "Barcode_2",
+  "type": "Barcode",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Locker_2"
+ },
+ "319": {
+  "name": "Barcode_3",
+  "type": "Barcode",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Locker_3"
+ },
+ "31a": {
+  "name": "Barcode_4",
+  "type": "Barcode",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Locker_4"
+ },
+ "324": {
+  "name": "X_Ray_Film",
+  "type": "XRayFilm",
+  "equippable": false,
+  "icon": "T_UI_Inventory_XRays"
+ },
+ "326": {
+  "name": "Drug_Hydroxalene",
+  "type": "PatientDrug",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Hydroxaline"
+ },
+ "32c": {
+  "name": "Drug_Tensobromide",
+  "type": "PatientDrug",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Tensobromide"
+ },
+ "32f": {
+  "name": "Drug_Dextracyclate",
+  "type": "PatientDrug",
+  "equippable": false,
+  "icon": "T_UI_Inventory_Dextracyclate"
+ },
+ "338": {
+  "name": "Projector_Slide_A",
+  "type": "ProjectorSlide",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0010_SlideB"
+ },
+ "339": {
+  "name": "Projector_Slide_B",
+  "type": "ProjectorSlide",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0009_SlideC"
+ },
+ "33a": {
+  "name": "Projector_Slide_C",
+  "type": "ProjectorSlide",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0012_SlideA"
+ },
+ "337": {
+  "name": "Projector_Slide_D",
+  "type": "ProjectorSlide",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0008_SlideD"
+ },
+ "33b": {
+  "name": "Projector_Slide_E",
+  "type": "ProjectorSlide",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0007_SlideE"
+ },
+ "33c": {
+  "name": "Projector_Slide_F",
+  "type": "ProjectorSlide",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0006_SlideF"
+ },
+ "3d1": {
+  "name": "Projector_Slides_Set",
+  "type": "ProjectorSlide",
+  "equippable": false,
+  "icon": ""
+ },
+ "3f2": {
+  "name": "Tape_Today",
+  "type": "TranscriptionTape",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0003_TapeToday"
+ },
+ "3f3": {
+  "name": "Tape_Tomorrow",
+  "type": "TranscriptionTape",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0002_TapeTomorrow"
+ },
+ "3f4": {
+  "name": "Tape_Yesterday",
+  "type": "TranscriptionTape",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0001_TapeYesterday"
+ },
+ "3f5": {
+  "name": "Tape_DoNotPlay",
+  "type": "TranscriptionTape",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0004_TapeDoNotPlay"
+ },
+ "3fe": {
+  "name": "Tape_Organisation",
+  "type": "TranscriptionTape",
+  "equippable": false,
+  "icon": ""
+ },
+ "420": {
+  "name": "BedsideDrawerInsert_A",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "421": {
+  "name": "BedsideDrawerInsert_B",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "422": {
+  "name": "BedsideDrawerInsert_C",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "423": {
+  "name": "FlatFilingCabinetInsert_A",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "424": {
+  "name": "FlatFilingCabinetInsert_B",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "425": {
+  "name": "BedroomDrawerInsert_A",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "426": {
+  "name": "BedroomDrawerInsert_B",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "427": {
+  "name": "BedroomDrawerInsert_C",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "428": {
+  "name": "DeskInsert_A",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "429": {
+  "name": "DeskInsert_B",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "42a": {
+  "name": "DeskInsert_C",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "42b": {
+  "name": "KitchenDrawerInsert_A",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "42c": {
+  "name": "KitchenDrawerInsert_B",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "42d": {
+  "name": "KitchenDrawerInsert_C",
+  "type": "ContainerInsert",
+  "equippable": false,
+  "icon": ""
+ },
+ "42e": {
+  "name": "Coin_Bronze",
+  "type": "StrangeCoin",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0039_BronzeCoin"
+ },
+ "42f": {
+  "name": "Coin_Silver",
+  "type": "StrangeCoin",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0038_SilverCoin"
+ },
+ "430": {
+  "name": "Coin_Gold",
+  "type": "StrangeCoin",
+  "equippable": false,
+  "icon": "T_UI_Inventory__0037_GoldCoin"
+ },
+ "43a": {
+  "name": "StrangePostcard_1",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "43b": {
+  "name": "StrangePostcard_2",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "43c": {
+  "name": "StrangePostcard_3",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "43d": {
+  "name": "StrangePostcard_4",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "43e": {
+  "name": "StrangePostcard_5",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "43f": {
+  "name": "StrangePostcard_6",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "440": {
+  "name": "StrangePostcard_7",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "441": {
+  "name": "StrangePostcard_8",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "442": {
+  "name": "StrangePostcard_9",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "443": {
+  "name": "StrangePostcard_10",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "444": {
+  "name": "StrangePostcard_11",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "445": {
+  "name": "StrangePostcard_12",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "446": {
+  "name": "StrangePostcard_13",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "447": {
+  "name": "StrangePostcard_14",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ },
+ "453": {
+  "name": "StrangePostcard_15",
+  "type": "StrangePostcard",
+  "equippable": false,
+  "icon": "UI_Inventory_Icon_Document"
+ }
+}
